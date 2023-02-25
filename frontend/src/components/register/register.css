@@ -1,0 +1,22 @@
+.register{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .register_heading{
+   text-align: center;
+  }
+  .register_form{
+      display: flex;
+      flex-direction: column;
+  }
+  .register_inputing{
+      padding:10px;
+      margin: 2vh 0;
+  }
+  .register_submit_btn{
+      padding:10px;
+      margin: 1vh 0;
+  }

@@ -1,0 +1,26 @@
+.Home{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+  }
+  .innerhome{
+    margin: 5vh 0;
+  }
+  .inputing{
+    padding:10px;
+  }
+  .adding_input{
+    padding:10px;
+    margin-right: 1vw;
+  }
+  .add_btn{
+    padding:10px;
+  }
+  .listing_task{
+    padding:12px;
+  }
+  .item{
+    list-style: none;
+    margin:2vh;
+  }
